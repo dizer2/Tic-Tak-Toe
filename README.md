@@ -1,2 +1,12 @@
 # Tic-Tak-Toe
-This is Tic-Tak-Toe games 🍷🍷🍷
+
+### Main features: 
+ - Html
+ - Scss
+ - jQuery 
+ - Methodology Bem
+ - UX & UI
+ 
+
+
+---
