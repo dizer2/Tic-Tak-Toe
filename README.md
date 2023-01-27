@@ -11,4 +11,4 @@
 
 ---
 
-https://dizer2.github.io/Tic-Tak-Toe/
+https://tic-tak-toe-app.netlify.app/
